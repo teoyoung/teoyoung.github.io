@@ -1,18 +1,24 @@
-
-
 section {
     padding: 0 80px;
 }
 
 
+
+
 /* Gallery */
 
 .gallery {
+    width: 100%;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .block {
-    width: 25vw;
+    width: 21vw;
     float:left;
     padding: 10px;
+}
+
+.banner_link {
+    cursor: pointer;
 }
