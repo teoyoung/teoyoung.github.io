@@ -60,12 +60,6 @@
             ]
         }
     ],
-    "materials" : [
-        {
-            "name" : "Material.001",
-            "pbrMetallicRoughness" : {}
-        }
-    ],
     "meshes" : [
         {
             "name" : "Cube.006",
@@ -102,8 +96,7 @@
                         "NORMAL" : 8,
                         "TEXCOORD_0" : 9
                     },
-                    "indices" : 10,
-                    "material" : 0
+                    "indices" : 10
                 }
             ]
         }
